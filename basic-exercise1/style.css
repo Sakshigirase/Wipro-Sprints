@@ -1,0 +1,16 @@
+#s1{
+    text-decoration: none;
+    display: inline-block;
+    }
+img td {
+border: 1px solid black;
+
+} 
+h2{
+    font-size: 20pt;
+    color: green;
+}
+h3{
+    font-size: 20pt;
+    color: gray;
+}
